@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jeff Lau's website`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jeff Lau`,
+      summary: `Distilling the complicated into the simple. And sometimes general wonderings.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog by Jeff Lau`,
+    siteUrl: `https://jefflau.net`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_jefflau`,
     },
   },
   plugins: [
