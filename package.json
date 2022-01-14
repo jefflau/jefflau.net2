@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "jefflau.net",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Blog of jefflau",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "Jeff Lau <jeff-lau@live.com>",
   "dependencies": {
     "gatsby": "^4.2.0",
     "gatsby-plugin-feed": "^4.2.0",
